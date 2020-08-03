@@ -1,8 +1,13 @@
 ---
-title: 'mi propia prueba'
+title: Mi propia prueba
 date: 2017-01-04T15:04:10.000Z
-description: >- "bla es una descripcion" 
+description: >-
+  PONGO DESCRIPCCION 
+  ordeal, but once you get used to the process, it becomes a soothing ritual
+  that's worth the effort every time.
+image: /img/blog-chemex.jpg
 ---
+
 ## Estoy Escribiendo en Markdown,
 
 Mi idea era tener algo como esto, en donde podamos expresar algunas ideas. Y tambien una ecuacion como la siguiente: 
