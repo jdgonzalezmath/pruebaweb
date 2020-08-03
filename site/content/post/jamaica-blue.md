@@ -1,7 +1,7 @@
 ---
 title: 'mi propia prueba'
 date: 2017-01-04T15:04:10.000Z
-description: >- bla 
+description: >- "bla es una descripcion" 
 Prueba de hacer microbloggin en este contexto.
 ---
 ## Estoy Escribiendo en Markdown,
