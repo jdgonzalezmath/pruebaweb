@@ -1,10 +1,10 @@
 ---
-title: "Values"
+title: "Valores"
 image: /img/about-jumbotron.jpg
 values:
   - heading: "Shade-grown coffee"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
+      El cafe crece y esta muy bueno, deberías tomarlo! 
       understory in its wild form, and traditionally was grown
       commercially under other trees that provided shade. The
       forest-like structure of shade coffee farms provides habitat for
@@ -12,19 +12,12 @@ values:
     imageUrl: "/img/about-shade-grown.jpg"
   - heading: "Single origin"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
+     El origen de todo esto es lo que vos quieras. 
+   imageUrl: "/img/about-single-origin.jpg"
   - heading: "Sustainable farming"
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
+    text: > 
+    Esta bueno la manera de cosechar el café, te lo recomienod. 
+
     imageUrl: "/img/about-sustainable-farming.jpg"
   - heading: "Direct sourcing"
     text: >
