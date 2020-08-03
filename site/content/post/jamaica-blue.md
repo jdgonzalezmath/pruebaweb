@@ -13,7 +13,7 @@ image: /img/blog-chemex.jpg
 Mi idea era tener algo como esto, en donde podamos expresar algunas ideas. Y tambien una ecuacion como la siguiente: 
 $$ \int_{0}^1 X^2 + 1 dx$$
 
-## 
+## b454
 Siguiendo con la idea, tambien puedo hacer una tabla como por ejemplo
 
  ----------
