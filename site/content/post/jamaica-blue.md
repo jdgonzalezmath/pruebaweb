@@ -17,10 +17,11 @@ a&b&c\\
 ## 
 Siguiendo con la idea, tambien puedo hacer una tabla como por ejemplo
 
+ ----------
 | 1 | 2 | 3|
-------------
+ ----------
 |4 | 5 | 6 |
------------- 
+ ---------- 
  
 - [ ] pondrias si? 
 - [ ] pondrias no? 
