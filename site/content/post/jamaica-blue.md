@@ -7,12 +7,7 @@ Prueba de hacer microbloggin en este contexto.
 ## Estoy Escribiendo en Markdown,
 
 Mi idea era tener algo como esto, en donde podamos expresar algunas ideas. Y tambien una ecuacion como la siguiente: 
-$$\left(
-\begin{array}{ccc}
-a&b&c\\
-\int_{0}^2 x^2 dx &45 &1 
-\end{array} 
-\right)$$
+$$ \int_{0}^1 X^2 + 1 dx$$
 
 ## 
 Siguiendo con la idea, tambien puedo hacer una tabla como por ejemplo
